@@ -1,0 +1,20 @@
+Load testing
+Load testing measures system performance as the workload increases.
+
+Stress testing
+Unlike load testing, stress testing — also known as fatigue testing —
+ is meant to measure system performance outside of the parameters of normal working conditions. 
+
+
+ Spike testing
+Spike testing is a type of stress testing that evaluates software performance when workloads are substantially increased quickly and repeatedly.
+ The workload is beyond normal expectations for short amounts of time
+
+ Endurance testing
+Endurance testing — also known as soak testing — is an evaluation of how software performs with a normal workload over an extended amount of time. The goal of endurance testing is to check for system problems such as memory leaks.
+
+Scalability testing
+Scalability testing is used to determine if software is effectively handling increasing workloads. This can be determined by gradually adding to the user load or data volume while monitoring system performance. Also, the workload may stay at the same level while resources such as CPUs and memory are changed.
+
+Volume testing
+Volume testing determines how efficiently software performs with large projected amounts of data. It is also known as flood testing because the test floods the system with data.
